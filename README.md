@@ -12,7 +12,8 @@ This is a Password Generator app developed using React Native and TypeScript. Th
 
 ## Screenshots
 
-Include screenshots or GIFs of your app in action. This can help users quickly understand what your app does and what it looks like.
+![image](https://github.com/iykethe1st/PasswordFishstick/assets/69741500/b6dae6d4-d77d-4c17-9ccb-7d26c97c943b)
+
 
 ## Installation
 
