@@ -48,7 +48,7 @@ Include screenshots or GIFs of your app in action. This can help users quickly u
 4. **Run the app:**
 
    ```bash
-      npx react-native run-android
+      npm run android
       # or
-      npx react-native run-ios
+      npm run ios
    ```
