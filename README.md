@@ -2,7 +2,7 @@
 
 ## Overview
 
-This is a Password Generator app developed using React Native and TypeScript. The app allows users to generate secure and customizable passwords based on various criteria, providing a robust solution for password creation.
+This is a Password Generator mobile app developed using React Native and TypeScript. The app allows users to generate secure and customizable passwords based on various criteria, providing a robust solution for password creation.
 
 ## Features
 
