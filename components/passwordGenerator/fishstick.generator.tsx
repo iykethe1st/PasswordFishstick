@@ -70,7 +70,7 @@ export default function PasswordGenerator() {
     <ScrollView keyboardShouldPersistTaps="handled">
       <SafeAreaView style={styles.appContainer}>
         <View style={styles.formContainer}>
-          <Text style={styles.title}>Password Generator</Text>
+          <Text style={styles.title}>Password Fishstick</Text>
 
           <Formik
             initialValues={{passwordLength: ''}}
