@@ -157,7 +157,7 @@ export default function App() {
                       handleReset();
                       resetPasswordState();
                     }}>
-                    <Text selectable style={styles.secondaryBtnTxt}>
+                    <Text selectable={true} style={styles.secondaryBtnTxt}>
                       Reset
                     </Text>
                   </TouchableOpacity>
